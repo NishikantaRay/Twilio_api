@@ -1,0 +1,16 @@
+{
+  "name": "sendgrid_api",
+  "version": "1.0.0",
+  "description": "Implementaition of Sendgrid api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Nishikanta Ray",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2",
+    "express": "^4.17.1"
+  }
+}
